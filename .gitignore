@@ -1,0 +1,5 @@
+*.zip
+/train
+/train_masks
+*.pth
+/.venv
